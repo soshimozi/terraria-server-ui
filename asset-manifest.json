@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/terraria-server-ui/static/css/main.f2f843d5.css",
+    "main.js": "/terraria-server-ui/static/js/main.b667f55a.js",
+    "static/js/787.3d89a5f8.chunk.js": "/terraria-server-ui/static/js/787.3d89a5f8.chunk.js",
+    "static/media/logo.svg": "/terraria-server-ui/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/terraria-server-ui/index.html",
+    "main.f2f843d5.css.map": "/terraria-server-ui/static/css/main.f2f843d5.css.map",
+    "main.b667f55a.js.map": "/terraria-server-ui/static/js/main.b667f55a.js.map",
+    "787.3d89a5f8.chunk.js.map": "/terraria-server-ui/static/js/787.3d89a5f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2f843d5.css",
+    "static/js/main.b667f55a.js"
+  ]
+}
