@@ -1,0 +1,6 @@
+{
+    "apiOrigin": "https://localhost:7209/api",
+    "domain": "bitwisemobile.auth0.com",
+    "clientId": "K4sYTJHhKz83xuObWrD2qBNmYJtPee9i",
+    "audience": "https://terraria-server-management-api"
+}
